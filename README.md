@@ -1,4 +1,4 @@
-![Screenshot 2024-10-17 114153](https://github.com/user-attachments/assets/5d3da6b7-c2fb-4ed0-95e6-e2ca854ec9d9)# EX 7 Implementation of Decision Tree Regressor Model for Predicting the Salary of the Employee
+## EX 7 Implementation of Decision Tree Regressor Model for Predicting the Salary of the Employee
 ## DATE:
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
